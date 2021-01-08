@@ -1,0 +1,80 @@
+"microsoft-edge-dev"
+	None,       Up,     Button4, 2
+    None,       Down,   Button5, 2
+    Shift_L,    Up,     Shift_L|Button4, 4
+    Shift_L,    Down,   Shift_L|Button5, 4
+    Control_L,  Up,     Control_L|Button4
+    Control_L,  Down,   Control_L|Button5
+"Opera"
+	None,       Up,     Button4, 2
+    None,       Down,   Button5, 2
+    Shift_L,    Up,     Shift_L|Button4, 4
+    Shift_L,    Down,   Shift_L|Button5, 4
+    Control_L,  Up,     Control_L|Button4
+    Control_L,  Down,   Control_L|Button5
+"ramme"
+    None,      Up,   Button4, 2
+    None,      Down, Button5, 2
+    Shift_L,   Up,   Shift_L|Button4, 4
+    Shift_L,   Down, Shift_L|Button5, 4
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+"google-chrome"
+    None, Up, Button4, 2
+    None, Down, Button5, 2
+    Shift_L,   Up,   Shift_L|Button4, 4
+    Shift_L,   Down, Shift_L|Button5, 4
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+"code"
+		None, Up, Button4, 2
+    None, Down, Button5, 2
+    Shift_L,   Up,   Shift_L|Button4, 4
+    Shift_L,   Down, Shift_L|Button5, 4
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+"sublime_text"
+		None, Up, Button4, 2
+    None, Down, Button5, 2
+    Shift_L,   Up,   Shift_L|Button4, 4
+    Shift_L,   Down, Shift_L|Button5, 4
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+"chromium"
+		None, Up, Button4, 2
+    None, Down, Button5, 2
+    Shift_L,   Up,   Shift_L|Button4, 4
+    Shift_L,   Down, Shift_L|Button5, 4
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+"crx_jgeocpdicgmkeemopbanhokmhcgcflmi"
+		None, Up, Button4, 2
+    None, Down, Button5, 2
+    Shift_L,   Up,   Shift_L|Button4, 4
+    Shift_L,   Down, Shift_L|Button5, 4
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+"Navigator"
+	None,       Up,     Button4,            4
+    None,       Down,   Button5,            4
+    Shift_L,    Up,     Shift_L|Button4,    4
+    Shift_L,    Down,   Shift_L|Button5,    4
+    Control_L,  Up,     Control_L|Button4,
+    Control_L,  Down,   Control_L|Button5,
+"^FocusProxy$"
+		None, Up, Button4, 2
+    None, Down, Button5, 2
+"^inkscape$"
+    None, Up, Button4, 2
+    None, Down, Button5, 2
+    Shift_L,   Up,   Shift_L|Button4, 1
+    Shift_L,   Down, Shift_L|Button5, 1
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+".*"
+    None,      Up,   Button4, 3
+    None,      Down, Button5, 3
+    Control_L, Up,   Control_L|Button4
+    Control_L, Down, Control_L|Button5
+    Shift_L,   Up,   Shift_L|Button4
+    Shift_L,   Down, Shift_L|Button5
